@@ -7,7 +7,7 @@ Un semplice script per sostituire l'animazione di avvio su dispositivi Android. 
 
 ## 🛠 Requisiti
 - Dispositivo Android con permessi di root
--`bootanimation.zip` personalizzato
+- `bootanimation.zip` personalizzato
 
 ## 🚀 Installazione
 
